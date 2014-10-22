@@ -1,13 +1,14 @@
 {
   "name": "charset-detector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ICU based port of charset detection",
   "main": "src/index.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "mocha -R mocha-better-spec-reporter tests/**/*.test.js"
+    "test": "mocha -R mocha-better-spec-reporter tests/**/*.test.js",
+    "bench": "matcha benchmarks/index.js"
   },
   "keywords": [
     "icu",
@@ -17,7 +18,14 @@
   "author": "Denis Bardadym <bardadymchik@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "jschardet": "^1.1.0",
+    "matcha": "^0.5.0",
     "mocha": "^1.21.5",
     "mocha-better-spec-reporter": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btd/node-charset-detector.git"
+  },
+  "homepage": "https://github.com/btd/node-charset-detector"
 }
