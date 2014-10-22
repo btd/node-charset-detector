@@ -1,0 +1,21 @@
+
+    
+
+    “Evrensel Kod” Nedir?
+
+    Evrensel Kod her yazı karakteri için bir ve yalnız bir sayı şart koşar,
+    hangi altyapı,
+    hangi yazılım,
+    hangi dil olursa olsun.
+
+    İlke olarak, bilgisayarlar sadece sayılarla işlem yaparlar. Kelimelerin ve yazı karakterlerinin her biri için
+    birer sayı atarlar ve böyle saklarlar. Evrensel Kod keşfedilmeden önce, bu sayıları atamak için birçok şifreleme
+    yöntemi vardı. Ancak, tüm bu dilleri gösterebilecek, örneğin; Avrupa Topluluğu bünyesindeki tüm ülkelerin dillerini
+    kapsayacak bir tek şifreleme yöntemi yoktu. Bunun yanısıra, sadece İngilizcedeki harfleri, noktalama
+    işaretlerini ve teknik sembolleri kapsayan tek bir şifreleme yöntemi de bulunmamaktaydı.
+
+    Bu şifreleme yöntemleri kendi aralarında çelişmektedir. İki farklı şifreleme, aynı sayıyı iki farklı karaktere
+    vermiş olabilir ya da farklı sayılar aynı karekteri kodlayabilir. Bilgisayarlar, özellikle sunucular, birçok
+    şifrelemeyi desteklemek zorundadırlar; veriler, farklı şifreleme ve altyapılardan geçerken bozulma riski taşırlar.
+
+    

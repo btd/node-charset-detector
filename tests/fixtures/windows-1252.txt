@@ -1,0 +1,1 @@
+This is another small sample of some English text. Just enough to be sure that it detects correctly. It also includes some “C1” bytes.

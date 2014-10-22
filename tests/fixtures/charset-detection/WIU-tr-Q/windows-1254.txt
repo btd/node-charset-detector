@@ -1,0 +1,21 @@
+
+    
+
+    “Evrensel Kod” Nedir?
+
+    Evrensel Kod her yazý karakteri için bir ve yalnýz bir sayý þart koþar,
+    hangi altyapý,
+    hangi yazýlým,
+    hangi dil olursa olsun.
+
+    Ýlke olarak, bilgisayarlar sadece sayýlarla iþlem yaparlar. Kelimelerin ve yazý karakterlerinin her biri için
+    birer sayý atarlar ve böyle saklarlar. Evrensel Kod keþfedilmeden önce, bu sayýlarý atamak için birçok þifreleme
+    yöntemi vardý. Ancak, tüm bu dilleri gösterebilecek, örneðin; Avrupa Topluluðu bünyesindeki tüm ülkelerin dillerini
+    kapsayacak bir tek þifreleme yöntemi yoktu. Bunun yanýsýra, sadece Ýngilizcedeki harfleri, noktalama
+    iþaretlerini ve teknik sembolleri kapsayan tek bir þifreleme yöntemi de bulunmamaktaydý.
+
+    Bu þifreleme yöntemleri kendi aralarýnda çeliþmektedir. Ýki farklý þifreleme, ayný sayýyý iki farklý karaktere
+    vermiþ olabilir ya da farklý sayýlar ayný karekteri kodlayabilir. Bilgisayarlar, özellikle sunucular, birçok
+    þifrelemeyi desteklemek zorundadýrlar; veriler, farklý þifreleme ve altyapýlardan geçerken bozulma riski taþýrlar.
+
+    

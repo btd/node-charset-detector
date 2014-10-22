@@ -1,0 +1,20 @@
+
+    
+
+    Czym jest Unikod ?
+
+    Unikod przypisuje unikalny numer ka¿demu znakowi, niezale¿ny od u¿ywanej platformy, programu czy jêzyka.
+
+    Zasadniczo, komputery rozumiej± tylko liczby. Zapisuj± litery i inne znaki przypisuj±c ka¿demu z nich liczbê.
+    Nim powsta³ Unikod, by³o wiele ró¿nych systemów kodowania przypisuj±cych te liczby. Brakowa³o jednego,
+    który móg³by pomie¶ciæ wystarczaj±co du¿± liczbê znaków. Przyk³adowo, sama Unia Europejska potrzebowa³a
+    kilku ró¿nych kodowañ, by móc u¿ywaæ wszystkich u¿ywanych w niej jêzyków. Nawet dla pojedynczego jêzyka
+    takiego jak np. angielski brakowa³o jednego kodowania, które by³oby odpowiednie dla zaprezentowania
+    wszystkich liter, znaków przestankowych i popularnych symboli technicznych.
+
+    Innym problemem by³o, ¿e kodowania te kolidowa³y ze sob±. Dwa, ró¿ne kodowania u¿ywa³y jednej liczby dla dwu
+    ró¿nych znaków lub ró¿nych liczb dla tego samego znaku. Wszystkie komputery (miêdzy innymi serwery) musz±
+    wspieraæ wszystkie te kodowania, gdy¿ dane przesy³ane miêdzy ró¿nymi systemami operacyjnymi zawsze
+    nara¿one s± na uszkodzenie.
+
+    

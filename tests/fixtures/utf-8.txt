@@ -1,0 +1,1 @@
+This is a string with some non-ascii characters that will be converted to UTF-8, then shoved through the detection process.  ΑΒΓΔΕSure would be nice if our source could contain Unicode directly!

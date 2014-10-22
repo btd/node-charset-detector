@@ -1,0 +1,22 @@
+
+    
+
+    Co je Unicode?
+
+    Unicode přiřazuje každému znaku jedinečné číslo,
+    nezávisle na platformě,
+    nezávisle na programu,
+    nezávisle na jazyce.
+
+    Počítače, ze své podstaty, pracují pouze s čísly. Písmena a další znaky ukládají tak, že každému z nich
+    přiřadí číslo. Před vznikem Unicode existovaly stovky rozdílných kódovacích systémů pro přiřazování těchto
+    čísel. Žádné z těchto kódování nemohlo obsahovat dostatek znaků: například Evropská unie sama potřebuje
+    několik různých kódování, aby pokryla všechny své jazyky. Dokonce i pro jeden jediný jazyk, jako je angličtina,
+    nevyhovovalo žádné kódování pro všechny písmena, interpunkci a běžně používané technické symboly.
+
+    Tyto kódovací systémy také byly v konfliktu jeden s druhým. To znamená, že dvě kódování mohou používat
+    stejné číslo pro dva různé znaky, nebo používat různá čísla pro stejný znak. Jakýkoli počítač (zvláště servery)
+    musí podporovat mnoho různých kódování; přesto, kdykoli jsou data předávána mezi různými kódováními nebo
+    platformami, hrozí, že tato data budou poškozena.
+
+    
