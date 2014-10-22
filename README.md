@@ -34,4 +34,4 @@ Detectable encodings from ICU:
 * UTF16-LE, UTF16-BE, UTF32-LE, UTF32-BE
 * Big5, EUC-JP, GB18030, Shift_JIS
 * ISO-2022-JP, ISO-2022-KR, ISO-2022-CN
-* ISO-8859-1, ISO-8859-2, ISO-8859-5, ISO-8859-6, ISO-8859-7, ISO-8859-8, ISO-8859-8-I, ISO-8859-9, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, koir8-r, ibm420\_ltr(rtl), ibm424\_ltr(rtl)
+* ISO-8859-1, ISO-8859-2, ISO-8859-5, ISO-8859-6, ISO-8859-7, ISO-8859-8, ISO-8859-8-I, ISO-8859-9, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, koir8-r, IBM420\_ltr(rtl), IBM424\_ltr(rtl)
